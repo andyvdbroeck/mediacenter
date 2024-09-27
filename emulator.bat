@@ -1,0 +1,1 @@
+C:/ppsspp_win/PPSSPPWindows64.exe %1 --fullscreen
