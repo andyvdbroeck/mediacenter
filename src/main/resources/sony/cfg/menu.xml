@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <category title="Settings" image="/sony/img/settings.png">
+        <item title="System update" image="/sony/img/update.png"/>
+        <item title="USB Connection" image="/sony/img/usb.png" value="usb"/>
+        <item title="System Settings" image="/sony/img/configuration.png"/>
+        <item title="Theme Settings" image="/sony/img/theme.png"/>
+        <item title="Security Settings" image="/sony/img/certificate.png"/>
+    </category>
+    <category title="Photo" image="/sony/img/photo.png">
+        <item title="Camera" image="/sony/img/camera.png"/>
+        <item title="Memory Stick" image="/sony/img/memorystick.png"/>
+    </category>
+    <category title="Music" image="/sony/img/music.png">
+        <item title="Radio" image="/sony/img/radio.png"/>
+        <item title="Memory Stick" image="/sony/img/memorystick.png"/>
+    </category>
+    <category title="Video" image="/sony/img/video.png">
+        <item title="UMD" image="/sony/img/umd.png"/>
+        <item title="Memory Stick" image="/sony/img/memorystick.png"/>
+    </category>
+    <category title="Game" image="/sony/img/game.png">
+        <item title="Game Sharing" image="/sony/img/gamesharing.png"/>
+        <item title="Remote Play" image="/sony/img/remoteplay.png"/>
+        <item title="Save data utility" image="/sony/img/saveddata.png"/>
+        <item title="PSP" image="/sony/img/psp.png"/>
+        <item title="Memory Stick" image="/sony/img/memorystick.png"/>
+    </category>
+    <category title="Network" image="/sony/img/network.png">
+        <item title="Friends" image="/sony/img/friends.png"/>
+        <item title="User account" image="/sony/img/user.png"/>
+        <item title="RSS Feed" image="/sony/img/rss.png"/>
+        <item title="WWW Browser" image="/sony/img/www.png"/>
+    </category>
+</menu>
